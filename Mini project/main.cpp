@@ -5,12 +5,10 @@
 #include <algorithm>
 #include <stdexcept>
 using namespace std;
-
 class Student {
 public:
     int id, marks;
     string name, course;
-
     Student(int i, string n, string c, int m) {
         id = i;
         name = n;

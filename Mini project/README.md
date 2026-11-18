@@ -19,20 +19,6 @@ A simple console-based Student Portal application developed using C++ and Object
 - File Handling (`ifstream`, `ofstream`)
 - Exception Handling (`try`, `catch`, `throw`)
 
-## Compile and Run
-
-```bash
-g++ student.cpp -o student
-./student
-```
-
-For Windows:
-
-```bash
-g++ student.cpp -o student.exe
-student.exe
-```
-
 ## Storage
 Student records are stored in `students.txt` in the application directory.
 
