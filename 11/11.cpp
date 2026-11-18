@@ -76,7 +76,7 @@ int main() {
     // ============================================================
     cout << "=== PART A: CSV write and read ===\n";
     vector<Student> students = {
-        {101, "Shreya Mhatre", 88.5},
+        {101, "Kartik Bansode", 88.5},
         {102, "Rahul Patil", 72},
         {103, "Anita Sharma", 91.25}
     };

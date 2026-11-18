@@ -99,7 +99,7 @@ int main() {
     cout << "  Age through inherited getAge(): " << s.getAge() << "\n";
 
     cout << "\n=== 3. GraduateStudent object (multilevel inheritance) ===\n";
-    GraduateStudent g("Shreya Mhatre", 24, 2001, "M.Sc. Computer Science",
+    GraduateStudent g("Kartik Bansode", 24, 2001, "M.Sc. Computer Science",
                       "Machine Learning in Healthcare", "Dr. Kulkarni");
     g.display();
     cout << "\n";
